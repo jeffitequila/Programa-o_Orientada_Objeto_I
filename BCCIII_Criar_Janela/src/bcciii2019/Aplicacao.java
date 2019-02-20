@@ -1,7 +1,7 @@
 package bcciii2019;
 import javax.swing.JFrame;
 public class Aplicacao extends JFrame{
-    public Aplicacao() {
+    public Aplicacao() {// da o cu
         setSize(640, 360);
         setVisible(true);
     }
